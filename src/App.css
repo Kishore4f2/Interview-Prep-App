@@ -55,6 +55,40 @@
   line-height: 1.6;
 }
 
+.auth-toggle {
+  display: flex;
+  background: var(--bg-tertiary);
+  border-radius: 12px;
+  padding: 4px;
+  margin-bottom: 32px;
+  gap: 4px;
+}
+
+.auth-toggle-btn {
+  flex: 1;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: transparent;
+  color: var(--text-secondary);
+  font-family: inherit;
+}
+
+.auth-toggle-btn:hover {
+  color: var(--text-primary);
+  background: var(--bg-secondary);
+}
+
+.auth-toggle-btn.active {
+  background: var(--bg-secondary);
+  color: var(--primary-color);
+  box-shadow: 0 2px 8px var(--shadow-sm);
+}
+
 .login-form {
   margin-bottom: 24px;
 }
