@@ -1,0 +1,117 @@
+[
+  {
+    "question": "Tell me about yourself.",
+    "category": "HR",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What are your strengths and weaknesses?",
+    "category": "HR",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Why do you want to work for our company?",
+    "category": "HR",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Describe a challenging situation you've overcome.",
+    "category": "HR",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What are your career goals for the next 5 years?",
+    "category": "HR",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Tell me about a time you failed.",
+    "category": "HR",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "How do you handle stress and pressure?",
+    "category": "HR",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Explain polymorphism in Object-Oriented Programming.",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the difference between SQL and NoSQL databases?",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How does the event loop work in JavaScript?",
+    "category": "Technical",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Explain RESTful API principles.",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are the SOLID principles?",
+    "category": "Technical",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Describe the difference between a class and an interface.",
+    "category": "Technical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16?",
+    "category": "Aptitude",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If a book costs $15 and is on sale for 20% off, what is the sale price?",
+    "category": "Aptitude",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "category": "Aptitude",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If you have 10 apples and give away 3, how many do you have left?",
+    "category": "Aptitude",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A train travels at 60 mph for 3 hours. How far did it travel?",
+    "category": "Aptitude",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies?",
+    "category": "Logical",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If A is greater than B and B is greater than C, is A greater than C?",
+    "category": "Logical",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "You have a glass of water and a glass of wine. You take a spoonful of water and mix it with wine. Then you take a spoonful of the mixture and put it back in the water. Is there more wine in the water or water in the wine?",
+    "category": "Logical",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A farmer has 17 sheep. All but 9 die. How many are left?",
+    "category": "Logical",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If you have a box with 3 red balls, 5 blue balls, and 2 green balls, what's the probability of drawing a red ball?",
+    "category": "Logical",
+    "difficulty": "Medium"
+  }
+]
